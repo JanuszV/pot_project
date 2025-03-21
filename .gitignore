@@ -1,5 +1,5 @@
 # Ignore everything
-/*
+*
 
 # Except the .gitignore file
 !.gitignore
@@ -12,3 +12,6 @@
 
 # Except the main folder inside the software directory
 !/software/main/
+
+# Except the contents of the main folder
+!/software/main/**
